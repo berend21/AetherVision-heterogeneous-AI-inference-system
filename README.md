@@ -239,20 +239,21 @@ AI-assisted search, but the project is still evolving.
 - [x] Semantic embeddings
 - [x] Image captions
 - [x] OCR
+- [X] Map-based location browsing
 
 ### In progress
 
 - [ ] Search quality improvements
 - [ ] Faster AI processing
 - [ ] Person recognition/search
-- [ ] Map-based location browsing
+- [ ] Album creation
+- [ ] Link calendar events to photos
 - [ ] Improved document/OCR search
 - [ ] Automated tests
 - [ ] Deployment hardening
 
 ## Known limitations
 
-- Large sequential image browsing can occasionally cause the web UI to hang.
 - OCR/full-text document search is still being improved.
 - AI processing performance depends heavily on hardware.
 - There are currently limited automated tests.
@@ -260,7 +261,6 @@ AI-assisted search, but the project is still evolving.
 ## Roadmap
 
 - Person identification and named people
-- Map-based photo browsing
 - Faster semantic search
 - Improved GPU utilization
 - Better deployment options
